@@ -74,10 +74,6 @@ cd Job-Search
 - Backend integration with database
 - Admin dashboard
 
-## 👨‍💻 Author
-
-**Anjana Reddy**
-
 - GitHub: https://github.com/anjanareddy01
 
 ## 📄 License
